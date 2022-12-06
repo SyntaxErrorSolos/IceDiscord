@@ -24,7 +24,6 @@ Now... onto the *Message Content* issue
 
 1 ~ We collect the contents of your message for the automoderation system. We **Do NOT store the contents of your message in any database!**
 
-2 ~ The chatbot system also collects your message content, The contents of your message **ARE** shared with a 3rd party service, namely [Brainshop](https://brainshop.ai/). You can read more about how they manage your data in their [Terms Of Use](https://brainshop.ai/terms)
 
 ## Delete my data!
 Most data collected by Ice can be deleted by using the commands present in Ice
