@@ -14,7 +14,7 @@ All data listed above, helps Ice function properly.
 
 Some examples include..
 
-Without "Message Content", Automoderation wouldn't be possible. Without MessageID's, RoleID's and ChannelID's Tickets system and Reaction role won't be possible
+Without "Message Content", Automoderation wouldn't be possible. Without MessageID's, RoleID's and ChannelID's Tickets system and Reaction role won't be possible. We will *not* start to store the data *until* you have ran the commands. Example, We will not store MessageID *until* you've created a reaction role or tickets system for your Guild
 
 ### Secure
 Your data is in safe hands and is worthless to any intruder. We do *not* store the contents of your message under any circumstances. We do *not* share your data with any 3rd party service. 
