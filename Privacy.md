@@ -1,32 +1,24 @@
 # Privacy Policy
 
-## Data We Collect
-All Data we collect is public data that can be accessed by any user on Discord. We collect:
+### Data We Collect
 - MessageID
 - RoleID
 - GuildID
 - UserID
+- ChannelD
 - Message Content
+- Guild Invites
 
-## Secure?
-This data (**excluding the message content**) is practically worthless to anyone who gets hold of it. An example is listed below:
-```
-{
-  "Guild": "769047889824841740",
-  "__v": 0
-}
-``` 
-Example taken from the `antilink` database.
+### Why
+All data listed above, helps Ice function properly. 
 
-*The full data document is NOT shown in this example! Only the Discord-related data we store, all MongoDB-related information is EXCLUDED from this example.*
+Some examples include..
 
-Now... onto the *Message Content* issue
+Without "Message Content", Automoderation wouldn't be possible. Without MessageID's, RoleID's and ChannelID's Tickets system and Reaction role won't be possible
 
-1 ~ We collect the contents of your message for the automoderation system. We **Do NOT store the contents of your message in any database!**
+### Secure
+Your data is in safe hands and is worthless to any intruder. We do *not* store the contents of your message under any circumstances. We do *not* share your data with any 3rd party service. 
 
+**How is my data worthless to an intruder?**
 
-## Delete my data!
-Most data collected by Ice can be deleted by using the commands present in Ice
-
-
-**An announcement will be sent in the Ice support server [ Run /support ] when any important change is made to the privacy policy
+As stated above, we do not store the contents of your message. This leaves the remaining data types. None of these are of actual value. RoleID is simply referring to the ID of a role, MessageID is referring to the ID of a particular message, UserID is referring to the ID of a user, ChannelID is referring to the ID of a channel. Guild invites are only *cached* not *stored in a seperate database* by Ice
