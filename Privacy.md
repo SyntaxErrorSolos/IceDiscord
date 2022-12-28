@@ -22,3 +22,8 @@ Your data is in safe hands and is worthless to any intruder. We do *not* store t
 **How is my data worthless to an intruder?**
 
 As stated above, we do not store the contents of your message. This leaves the remaining data types. None of these are of actual value. RoleID is simply referring to the ID of a role, MessageID is referring to the ID of a particular message, UserID is referring to the ID of a user, ChannelID is referring to the ID of a channel. Guild invites are only *cached* not *stored in a seperate database* by Ice
+
+
+### Data Deletion 
+
+All Data collected by Ice can be deleted with the use of a few commands.
