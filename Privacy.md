@@ -14,14 +14,30 @@ All data listed above, helps Ice function properly.
 
 Some examples include..
 
-Without "Message Content", Automoderation wouldn't be possible. Without MessageID's, RoleID's and ChannelID's Tickets system and Reaction role won't be possible. We will *not* start to store the data *until* you have ran the commands. Example, We will not store MessageID *until* you've created a reaction role or tickets system for your Guild
+Without "Message Content", Automoderation & counter won't be possible. Without MessageID's, RoleID's and ChannelID's Tickets system and Reaction role won't be possible. We will *not* start to store the data *until* you have ran the commands. Example, We will not store MessageID *until* you've created a reaction role or tickets system for your Guild
 
 ### Secure
-Your data is in safe hands and is worthless to any intruder. We do *not* store the contents of your message under any circumstances. We do *not* share your data with any 3rd party service. 
+Your data is in safe hands and is worthless to any intruder. We do *not* share your data with *any* 3rd party service *unless* stated otherwise.
 
 **How is my data worthless to an intruder?**
 
-As stated above, we do not store the contents of your message. This leaves the remaining data types. None of these are of actual value. RoleID is simply referring to the ID of a role, MessageID is referring to the ID of a particular message, UserID is referring to the ID of a user, ChannelID is referring to the ID of a channel. Guild invites are only *cached* not *stored in a seperate database* by Ice
+> MessageID
+> 
+> RoleId
+> 
+> GuildID
+> 
+> UserID
+> 
+> ChannelID
+
+Are all IDs that anyone on Discord can access, they provide no real value to any indiviual or company.
+
+Message Content however, can be of value to an indiviual. As stated in the "Why", we only use your message content for AutoModeration & counter. Automoderation is not stored in our database, Counting is. Counting stores the current count number for a specific Guild. Nothing else.
+
+> Guild Invites
+
+Guild invites are not stored in our database.
 
 
 ### Data Deletion 
