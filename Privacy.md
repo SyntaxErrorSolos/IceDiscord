@@ -8,6 +8,7 @@
 - ChannelD
 - Message Content
 - Guild Invites
+- Error logs and all relevant information with it
 
 ### Why
 All data listed above, helps Ice function properly. 
@@ -30,6 +31,8 @@ Your data is in safe hands and is worthless to any intruder. We do *not* share y
 > UserID
 > 
 > ChannelID
+> 
+> Error Logs
 
 Are all IDs that anyone on Discord can access, they provide no real value to any indiviual or company.
 
@@ -39,7 +42,9 @@ Message Content however, can be of value to an indiviual. As stated in the "Why"
 
 Guild invites are not stored in our database.
 
+> Error Logs
+They *normally* do not contain any sensitive information and are only available to the Developers of Ice
 
 ### Data Deletion 
 
-All Data collected by Ice can be deleted with the use of a few commands.
+All Data collected by Ice can be deleted with the use of a few commands. (This does *not* include `Error Logs`)!
