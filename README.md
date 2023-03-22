@@ -1,1 +1,1 @@
-[![Infinity Bot List Widget](https://infinitybots.gg/bots/749151155015122987/widget?size=large)](https://infinitybots.gg/bots/749151155015122987)
+[![Infinity Bot List Widget](https://widgets.infinitybots.gg/bot/Ice/?size=small)](https://infinitybots.gg/bots/749151155015122987)
