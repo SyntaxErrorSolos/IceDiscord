@@ -1,50 +1,21 @@
-# Privacy Policy
+# We are not affiliated with Discord Inc
 
-### Data We Collect
-- MessageID
-- RoleID
-- GuildID
-- UserID
-- ChannelD
-- Message Content
-- Guild Invites
-- Error logs and all relevant information with it
+## References
+* We use the terminology "us", "we", "our" to refer to "Ice"
+* We use the terminology "developer" and/or "developers" to refer to the "Developers / Maintainers of Ice"
+* We use the terminology "Discord" to refer to "Discord Inc"  
+* We use the terminology "you", "users", "your" and/or any other term that refers to "Users"
 
-### Why
-All data listed above, helps Ice function properly. 
+## Information We Collect
+We collect any and/or all necessary information required for Ice to function as intended. This includes but not limited to:
+* Information related to guilds you own, Moderate or have joined (This includes but not limited to: `Information regarding Guild Roles`, `Information regarding Guild Channels`, `Information regarding Guild Members`, `Guild Messages and thir content`)
+* Information regarding your Discord account (This includes but not limited to: `Account Creation Date`, `Username`, `Discriminator`, `ID`)
 
-Some examples include..
+## Use of this information
+Information collected by Ice is required for the bot to function properly. The developers of Ice have secured the database to prevent unauthorized access. Incase of a breach, the developers of Ice are not to be held liable. Some examples of usage include: We require `message content` for AutoModeration, `Guild role information` is required for `audit logging` through Ice, `Guild Channel information` is required for `audit logging` and other purposes. 
 
-Without "Message Content", Automoderation & counter won't be possible. Without MessageID's, RoleID's and ChannelID's Tickets system and Reaction role won't be possible. We will *not* start to store the data *until* you have ran the commands. Example, We will not store MessageID *until* you've created a reaction role or tickets system for your Guild
+## Deletion of data
+Most data collected through Ice can be deleted at any time. To delete user-based data (Your TOS / Privacy agreements & your `economy` related information), Run he `/deletedata` command in a Discord server where Ice is prevent. Information related to `Discord Guild Information` can also be deleted by using specific commands. Some examples include, If you have `reaction roles` setup, run `/delete reactionroles`. 
+<br>**Once your data is deleted, it cannot be restored!**
 
-### Secure
-Your data is in safe hands and is worthless to any intruder. We do *not* share your data with *any* 3rd party service *unless* stated otherwise.
 
-**How is my data worthless to an intruder?**
-
-> MessageID
-> 
-> RoleId
-> 
-> GuildID
-> 
-> UserID
-> 
-> ChannelID
-> 
-> Error Logs
-
-Are all IDs that anyone on Discord can access, they provide no real value to any indiviual or company.
-
-Message Content however, can be of value to an indiviual. As stated in the "Why", we only use your message content for AutoModeration & counter. Automoderation is not stored in our database, Counting is. Counting stores the current count number for a specific Guild. Nothing else.
-
-> Guild Invites
-
-Guild invites are not stored in our database.
-
-> Error Logs
-They *normally* do not contain any sensitive information and are only available to the Developers of Ice
-
-### Data Deletion 
-
-All Data collected by Ice can be deleted with the use of a few commands. (This does *not* include `Error Logs`)!
