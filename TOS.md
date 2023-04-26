@@ -1,11 +1,23 @@
-# Terms Of Service
-You are *not allowed to:*
-- Abuse the Discord API using Ice
-- Use Ice in a server that breaks the Discord TOS
-- Use Ice to promote any scams or malicious files/links
-- Use the chatbot feature to self-advertise, promote any thing classified as "malicious" or teach the AI slurs or racist comments (*Chatbot will be added in the future!*)
+# Ice - Terms of Service
 
-You *must:*
-- Follow the Discord and Ice TOS
-- 
-**Failing to follow any of the rules listed above CAN get you banned from using Ice! By running any commands or by adding Ice to your guild you AGREE to follow the TOS. TOS may be changed with or without notice.**
+
+## Description of services
+
+Ice is a Discord bot that allows user's to setup reaction roles, moderate other members, create tickets and more.
+
+## Acceptance 
+
+By using our services you "agree" to follow our Terms Of Services and Privacy Policy. We reserve the right to revoke your access at any point in time without or without a valid reason.
+
+## Code Of Conduct
+
+You may not use our services in any manner that may be deemed 'illegal' and / or cause damages to the developers of Ice, The guilds that use Ice, the users that use Ice and / or Discord. 
+<br> You agree to use our services in a manner that does not cause harm to the bot, the developers, users, guild and / or Discord in any manner. This includes but not limited to:  nuking, raiding, hacking and more.
+
+## Liability
+
+In no event shall the developers of Ice be held liable for any damages caused.
+
+## Changes
+
+We reserve the right to change our Terms Of Service and Privacy Policy at any time with or without prior notice.
