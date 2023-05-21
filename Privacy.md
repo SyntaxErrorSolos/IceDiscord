@@ -8,7 +8,7 @@
 
 ## Information We Collect
 We collect any and/or all necessary information required for Ice to function as intended. This includes but not limited to:
-* Information related to guilds you own, Moderate or have joined (This includes but not limited to: `Information regarding Guild Roles`, `Information regarding Guild Channels`, `Information regarding Guild Members`, `Guild Messages and thir content`)
+* Information related to guilds you own, Moderate or have joined (This includes but not limited to: `Information regarding Guild Roles`, `Information regarding Guild Channels`, `Information regarding Guild Members`, `Guild Messages and their content`)
 * Information regarding your Discord account (This includes but not limited to: `Account Creation Date`, `Username`, `Discriminator`, `ID`)
 
 ## Use of this information
